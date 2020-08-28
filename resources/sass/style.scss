@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body {
+  background-color: #ddd;
+
+  .content {
+    margin-top: 56px;
+  }
+
+  nav.navbar {
+    transition: all .35s ease-in-out;
+  }
+
+  .component-example {
+    height: 1000px;
+  }
+}
